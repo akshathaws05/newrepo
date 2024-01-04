@@ -1,2 +1,3 @@
-line1 updated in file1 of branch1
+line1 modified in same file as branch1
+
 
