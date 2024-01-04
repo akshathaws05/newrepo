@@ -1,2 +1,2 @@
-line1
+line1 updated in file1 of branch1
 
